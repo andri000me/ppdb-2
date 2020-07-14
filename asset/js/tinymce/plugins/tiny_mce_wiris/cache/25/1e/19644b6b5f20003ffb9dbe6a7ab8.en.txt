@@ -1,0 +1,1 @@
+{"result":{"text":"stack rightwards arrow over leftwards arrow increment with 5 on top"},"status":"ok"}
